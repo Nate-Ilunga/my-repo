@@ -1,0 +1,20 @@
+# ===== OS files =====
+.DS_Store
+Thumbs.db
+
+# ===== VS Code =====
+.vscode/
+
+# ===== Environment / secrets =====
+.env
+
+# ===== Logs =====
+*.log
+
+# ===== Build / compiled output =====
+dist/
+build/
+out/
+
+# ===== Node (safe even if you don't use it yet) =====
+node_modules/
